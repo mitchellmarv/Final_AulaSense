@@ -1,0 +1,10 @@
+streamlit>=1.37
+paho-mqtt
+bokeh==2.4.3
+streamlit-bokeh-events
+pillow
+numpy<2
+pyarrow<20
+ultralytics
+torch
+opencv-python-headless
